@@ -1,0 +1,12 @@
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.deps.json
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.runtimeconfig.json
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.runtimeconfig.dev.json
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\bin\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csprojAssemblyReference.cache
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfoInputs.cache
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.AssemblyInfo.cs
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.dll
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.pdb
+C:\IT-Högskolan\Databaser\Entity Framework\Inlämningsuppgift\WeatherDataConsole\EFDataAccessLibrary\obj\Debug\netcoreapp3.1\EFDataAccessLibrary.genruntimeconfig.cache
